@@ -1,6 +1,6 @@
 # Closing Bounds
 ### By PepperLola
-My submission for the Game Off 2019 game jam.
+My submission for the Game Off 2019 game jam. [^1]
 
 Can you solve the puzzle before the boundary closes around you? Play as a robot, solving puzzles. But move quickly, because the border will slowly begin to constrict around you, killing you on contact.
 
@@ -19,4 +19,4 @@ Can you solve the puzzle before the boundary closes around you? Play as a robot,
 
 ![Preview](https://img.itch.zone/aW1hZ2UvNTIwMzI3LzI3MDYyMDkucG5n/original/lrqOmM.png)
 
-Made with GameMaker Studio 2
+[^1]: Made with GameMaker Studio 2
